@@ -1,0 +1,235 @@
+{
+	"annotation": [{
+		"image_id": 0,
+		"file_name": "img01.jpg",
+		"width": 800,
+		"height": 1280,
+		"objects": [{
+			"object_id": 0,
+			"class": "face",
+			"position": [503.5, 754.5, 309.0, 293.0]
+		}, {
+			"object_id": 1,
+			"class": "eye_closed",
+			"position": [506.0, 669.5, 74.0, 49.0]
+		}, {
+			"object_id": 2,
+			"class": "eye_closed",
+			"position": [612.5, 702.0, 59.0, 38.0]
+		}, {
+			"object_id": 3,
+			"class": "mouth_closed",
+			"position": [533.0, 826.0, 86.0, 52.0]
+		}]
+	}, {
+		"image_id": 1,
+		"file_name": "img02.jpg",
+		"width": 800,
+		"height": 1280,
+		"objects": [{
+			"object_id": 4,
+			"class": "face",
+			"position": [413.0, 720.5, 296.0, 291.0]
+		}, {
+			"object_id": 5,
+			"class": "eye_closed",
+			"position": [338.0, 631.0, 74.0, 38.0]
+		}, {
+			"object_id": 6,
+			"class": "eye_closed",
+			"position": [460.5, 636.0, 81.0, 40.0]
+		}, {
+			"object_id": 7,
+			"class": "mouth_opened",
+			"position": [403.0, 773.0, 88.0, 68.0]
+		}]
+	}, {
+		"image_id": 2,
+		"file_name": "img03.jpg",
+		"width": 800,
+		"height": 1280,
+		"objects": [{
+			"object_id": 8,
+			"class": "face",
+			"position": [436.5, 633.5, 295.0, 303.0]
+		}, {
+			"object_id": 9,
+			"class": "eye_opened",
+			"position": [399.5, 543.0, 81.0, 46.0]
+		}, {
+			"object_id": 10,
+			"class": "mouth_opened",
+			"position": [472.0, 674.0, 90.0, 40.0]
+		}, {
+			"object_id": 11,
+			"class": "phone",
+			"position": [621.5, 699.5, 113.0, 191.0]
+		}]
+	}, {
+		"image_id": 3,
+		"file_name": "img04.jpg",
+		"width": 800,
+		"height": 1280,
+		"objects": [{
+			"object_id": 12,
+			"class": "face",
+			"position": [375.5, 746.0, 285.0, 286.0]
+		}, {
+			"object_id": 13,
+			"class": "eye_opened",
+			"position": [306.0, 674.5, 74.0, 39.0]
+		}, {
+			"object_id": 14,
+			"class": "eye_opened",
+			"position": [425.0, 654.5, 74.0, 39.0]
+		}, {
+			"object_id": 15,
+			"class": "mouth_opened",
+			"position": [388.0, 810.5, 96.0, 49.0]
+		}, {
+			"object_id": 16,
+			"class": "phone",
+			"position": [242.5, 819.5, 75.0, 243.0]
+		}]
+	}, {
+		"image_id": 4,
+		"file_name": "img05.jpg",
+		"width": 800,
+		"height": 1280,
+		"objects": [{
+			"object_id": 17,
+			"class": "face",
+			"position": [493.5, 686.0, 297.0, 288.0]
+		}, {
+			"object_id": 18,
+			"class": "eye_opened",
+			"position": [518.0, 597.0, 64.0, 40.0]
+		}, {
+			"object_id": 19,
+			"class": "eye_opened",
+			"position": [611.0, 621.5, 56.0, 41.0]
+		}, {
+			"object_id": 20,
+			"class": "cigar",
+			"position": [600.0, 730.0, 88.0, 36.0]
+		}]
+	}, {
+		"image_id": 5,
+		"file_name": "img06.jpg",
+		"width": 800,
+		"height": 1280,
+		"objects": [{
+			"object_id": 21,
+			"class": "face",
+			"position": [397.5, 681.0, 311.0, 280.0]
+		}, {
+			"object_id": 22,
+			"class": "eye_opened",
+			"position": [292.0, 623.0, 64.0, 40.0]
+		}, {
+			"object_id": 23,
+			"class": "eye_opened",
+			"position": [395.5, 596.5, 71.0, 37.0]
+		}, {
+			"object_id": 24,
+			"class": "mouth_closed",
+			"position": [341.0, 717.0, 82.0, 32.0]
+		}, {
+			"object_id": 25,
+			"class": "cigar",
+			"position": [329.5, 732.5, 67.0, 67.0]
+		}]
+	}, {
+		"image_id": 6,
+		"file_name": "img07.jpg",
+		"width": 800,
+		"height": 1280,
+		"objects": [{
+			"object_id": 26,
+			"class": "face",
+			"position": [480.0, 677.0, 284.0, 286.0]
+		}, {
+			"object_id": 27,
+			"class": "eye_opened",
+			"position": [414.0, 586.5, 70.0, 41.0]
+		}, {
+			"object_id": 28,
+			"class": "eye_opened",
+			"position": [540.0, 598.0, 80.0, 46.0]
+		}, {
+			"object_id": 29,
+			"class": "mouth_closed",
+			"position": [461.0, 719.5, 90.0, 41.0]
+		}, {
+			"object_id": 30,
+			"class": "phone",
+			"position": [621.5, 761.0, 47.0, 158.0]
+		}]
+	}, {
+		"image_id": 7,
+		"file_name": "img08.jpg",
+		"width": 720,
+		"height": 1280,
+		"objects": [{
+			"object_id": 31,
+			"class": "face",
+			"position": [326.5, 785.5, 345.0, 494.2]
+		}, {
+			"object_id": 32,
+			"class": "eye_opened",
+			"position": [257.5, 658.0, 63.0, 45.0]
+		}, {
+			"object_id": 33,
+			"class": "eye_opened",
+			"position": [405.5, 660.0, 69.0, 45.0]
+		}, {
+			"object_id": 34,
+			"class": "mouth_closed",
+			"position": [325.5, 831.0, 121.0, 50.0]
+		}]
+	}, {
+		"image_id": 8,
+		"file_name": "img09.jpg",
+		"width": 720,
+		"height": 1280,
+		"objects": [{
+			"object_id": 35,
+			"class": "face",
+			"position": [364.0, 795.0, 318.0, 372.0]
+		}, {
+			"object_id": 36,
+			"class": "eye_closed",
+			"position": [309.5, 682.5, 77.0, 37.0]
+		}, {
+			"object_id": 37,
+			"class": "eye_closed",
+			"position": [443.0, 676.0, 72.0, 34.0]
+		}, {
+			"object_id": 38,
+			"class": "mouth_opened",
+			"position": [386.5, 837.0, 113.0, 66.0]
+		}]
+	}, {
+		"image_id": 9,
+		"file_name": "img10.jpg",
+		"width": 720,
+		"height": 1280,
+		"objects": [{
+			"object_id": 39,
+			"class": "face",
+			"position": [359.5, 652.5, 339.0, 367.0]
+		}, {
+			"object_id": 40,
+			"class": "eye_opened",
+			"position": [278.0, 552.0, 72.0, 32.0]
+		}, {
+			"object_id": 41,
+			"class": "eye_opened",
+			"position": [424.0, 537.0, 74.0, 32.0]
+		}, {
+			"object_id": 42,
+			"class": "mouth_closed",
+			"position": [363.5, 700.0, 123.0, 46.0]
+		}]
+	}]
+}
